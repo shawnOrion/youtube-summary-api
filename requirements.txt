@@ -2,3 +2,4 @@ fastapi
 youtube_transcript_api
 python-dotenv
 openai
+uvicorn
